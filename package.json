@@ -14,12 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "better-sqlite3": "^5.0.1",
     "docdash": "^1.0.1",
     "jsdoc": "^3.5.5"
-  },
-  "peerDependencies": {
-    "better-sqlite3": "^5.0.1"
   },
   "dependencies": {
     "bluebird": "^3.5.3",
